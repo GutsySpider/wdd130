@@ -1,4 +1,4 @@
-universal-selector {
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -44,11 +44,10 @@ aside {
     text-align: center;
 }
 
-aside h2{
+aside h2 {
     position: absolute;
-    top: 105px;
+    top: 100px;
     left: 95px;
-
 }
 
 aside img {
@@ -68,12 +67,12 @@ footer {
     text-align: center;
 }
 
-/* class selectors */
+/*Class Selectors*/
 
 .box {
     margin: 1rem;
     padding: 1rem;
     border: 1px solid rgb(0 0 0 / 10%);
-    background-color: var(--heading-color);
-    color: red;
+    background-color:  lightgrey;
+    color: rgb(230, 88, 37);
 }
