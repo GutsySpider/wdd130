@@ -167,12 +167,12 @@ article {
     
 }
 
-.image {
+.figure {
 	margin: 1px;
     text-align: center;
 }
 
-.image img{
+.figure img{
     width: 100%;
     height: 150px;
 }
