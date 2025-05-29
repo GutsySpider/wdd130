@@ -125,7 +125,7 @@ h1 {
     height: auto;
 }
 .navigation a:hover {
-	color: tomato;
+	color: var(--accent1-color);
 	font-weight: 700;
 	text-decoration: underline;
 }
