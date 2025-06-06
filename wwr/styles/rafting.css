@@ -226,18 +226,12 @@ input[type=submit] {
   cursor: pointer;
 }
 
-
-input[type=submit]:hover {
-  background-color: var(--primary-color);
-}
-
-
 .container {
   border-radius: 5px;
   padding: 20px;
 }
 
-.submit {
+.button {
 display: flex;
 justify-content: center;
 align-items: center;
