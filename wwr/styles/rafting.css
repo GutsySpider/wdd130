@@ -248,3 +248,19 @@ input[type=text], select, textarea {
     margin: 20px;
     
 }
+table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: center;
+        }
+        th {
+            background-color: #f4a261;
+            color: white;
+        }
+        tr:nth-child(even) {
+            background-color: #fbe9d0;
+        }
