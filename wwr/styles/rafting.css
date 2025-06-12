@@ -260,7 +260,7 @@ table {
         }
         th {
             background-color: #f4a261;
-            color: white;
+            color: var(--primary-color);
         }
         tr:nth-child(even) {
             background-color: #fbe9d0;
